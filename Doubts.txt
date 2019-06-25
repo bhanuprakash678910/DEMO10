@@ -1,0 +1,6 @@
+1. Stop the container in the nodes. 
+2. Dockerfile( war to tomcat)
+3. volumes- how to copy data of deleted containers from volume).
+4. Apache2 with load balancing into different nodes using swarms.
+
+https://www.whitehatsec.com/
